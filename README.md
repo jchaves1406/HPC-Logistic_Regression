@@ -12,3 +12,5 @@ Se elaboró un modelo de regresión logística en el lenguaje C++ utilizando la 
 * [Ficheros modelo C++](https://github.com/jchaves1406/HPC-Logistic_Regression/tree/main/Ficheros_cpp)
 
 * [Notebook con la comparativa e implementación](https://github.com/jchaves1406/HPC-Logistic_Regression/blob/main/HPC_Logistic_Regression.ipynb)
+
+* [Implementación modelo en C++](https://github.com/jchaves1406/HPC-Logistic_Regression/tree/main/LogisticProject)
